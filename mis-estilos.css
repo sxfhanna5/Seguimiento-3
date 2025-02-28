@@ -54,3 +54,18 @@ body{
 .Centro{
     align-content: center;
 }
+.ico{
+    margin-top: 20px;
+}
+.social{
+    
+    color: cornflowerblue;
+}
+.lala {
+    background-color: rgb(53, 85, 144);
+    color: white;
+}
+.sol{
+    background-color: rgb(200, 35, 68);
+    color: white;
+}
