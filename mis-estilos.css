@@ -74,8 +74,14 @@ body{
     background-size: 50px;
     border-radius: 50px;
 }
-.abajo{
+.enlaces-container {
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-items: center;
-    
 }
+
+.enlace {
+    text-decoration: none;
+    margin: 4px 0;
+}
+
